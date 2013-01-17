@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Irr::VERSION
   gem.authors       = ["Igor Kuznetsov"]
   gem.email         = ["igkuznetsov@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Gem for working with irr service}
+  gem.summary       = %q{}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
